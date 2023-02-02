@@ -29,12 +29,12 @@ Users should be able to:
 
 ### Screenshot
 
-[Screenshot](images/Screenshot1.png)
+![Screenshot](images/Screenshot1.png)
 
 ### Links
 
 - Solution URL: [Huddle-landing-page-with-curved-sections-master](https://github.com/SilverWings47/huddle-landing-page-with-curved-sections)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://silverwings47.github.io/huddle-landing-page-with-curved-sections/)
 
 ### Built with
 
@@ -48,4 +48,4 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@SilverWings47](https://www.frontendmentor.io/profile/SilverWings47)
-- Twitter - [@iSilverWings47](https://www.twitter.com/iSilverWings47)
+- Twitter - [@iSilverWings47](https://www.twitter.com/iSilverWings)
