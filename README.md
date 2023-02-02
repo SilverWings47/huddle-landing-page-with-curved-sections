@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Huddle-landing-page-with-curved-sections-master](https://github.com/SilverWings47/huddle-landing-page-with-curved-sections)
-- Live Site URL: [Add live site URL here](https://silverwings47.github.io/huddle-landing-page-with-curved-sections/)
+- Live Site URL: [Live Site URL](https://silverwings47.github.io/huddle-landing-page-with-curved-sections/)
 
 ### Built with
 
