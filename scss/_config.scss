@@ -1,0 +1,25 @@
+// Fonts
+
+$ff-primary: 'Poppins', sans-serif;
+$ff-secondary: 'Open Sans', sans-serif;
+
+$fw-primary-700: 700;
+
+$fw-secondary-700: 700;
+$fw-secondary-600: 600;
+$fw-secondary-400: 400;
+
+// Colors
+
+$clr-primary-pink-700: hsl(322, 100%, 66%);
+$clr-primary-pink-400: hsl(321, 100%, 78%);
+$clr-primary-red: hsl(0, 100%, 63%);
+
+$clr-neutral-cyan: hsl(192, 100%, 9%);
+$clr-neural-blue: hsl(207, 100%, 98%);
+
+@mixin desktop {
+    @media (min-width: 376px) {
+        @content
+    }
+}
